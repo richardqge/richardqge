@@ -34,24 +34,26 @@
 <details>
   <summary></summary>
 <div>
-<h2 align="center"> ▶️ About this Account</h2>
- <p align="center">
-  <a href="github.com/richardqge" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/visits/1999AZZAR/1999AZZAR?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
-     alt="spying counter" /></a>
-  <a href="github.com/richardqge" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/richardqge" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/richardqge" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
-</div>
+  <samp>
+    <h2 align="center"> ▶️ About this Account</h2>
+     <p align="center">
+      <a href="github.com/richardqge" target="blank"><img align="center" 
+         src="https://badges.pufler.dev/visits/richardqge/richardqge?style=for-the-badge&color=e74c3c&logo=github&label=Spying+Counter"
+         alt="spying counter" /></a>
+      <a href="github.com/richardqge" target="blank"><img align="center" 
+         src="https://badges.pufler.dev/years/richardqge//?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
+         alt="account age" /></a>
+      </p>
+      <p align="center">
+      <a href="github.com/richardqge" target="blank"><img align="center" 
+         src="https://badges.pufler.dev/updated/richardqge//richardqge/?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
+         alt="updated" /></a>
+      <a href="github.com/richardqge" target="blank"><img align="center" 
+         src="https://badges.pufler.dev/repos/richardqge//?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+         alt="repos" /></a>
+     </p>
+    </div>
+  <samp>
 </details>
 
 <details>
@@ -70,12 +72,12 @@
       <br/>
         <p align="center">
           <a href="https://github.com/richardqge/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardqge/&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="richardqge/ :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/richardqge/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=richardqge/&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=richardqge/&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
