@@ -1,4 +1,4 @@
-![header image](https://user-images.githubusercontent.com/50726914/172733274-cc8f0bf0-64cd-4ff9-89d0-16c1506da93c.jpg)
+![header image](https://user-images.githubusercontent.com/50726914/172733425-5ac67f06-9577-4bf3-aa0d-898290fe29e1.jpg)
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Richard Q. Ge</h1>
 <h4 align="center">BS/MS Computer Science @ USC | Software Engineer  </h4>
