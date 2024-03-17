@@ -4,14 +4,7 @@
 <h4 align="center">BS/MS Computer Science @ USC | Software Engineer  </h4>
 </div>
 <div>
-
-</div>
-<div align="center">
-  <a href="https:/richardge.dev">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+  
 <details>
   <summary>👨🏻‍💻 Contact me</summary>
 <div>
