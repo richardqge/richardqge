@@ -1,7 +1,7 @@
 ![header image](https://user-images.githubusercontent.com/50726914/174447166-ea866da3-90ac-4254-b159-69857562c666.jpg)
 <div align="center">
 <h1 align="center">Hi, I'm Richard Q. Ge</h1>
-<h4 align="center">BS/MS Computer Science @ USC | Software Engineer  </h4>
+<h4 align="center">BS Computer Science @ USC | Software Engineer  </h4>
 </div>
 <div>
   
